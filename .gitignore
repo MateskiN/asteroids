@@ -1,0 +1,23 @@
+# created by virtualenv automatically
+# Ignore virtual environments
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore system or editor-specific files
+.vscode/
+*.log
+
+# Ignore environment variables or sensitive data (if applicable)
+.env
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
